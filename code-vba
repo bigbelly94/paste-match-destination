@@ -1,0 +1,3 @@
+Sub PasteAsValue()
+    ActiveSheet.PasteSpecial Format:="Text", Link:=False, DisplayAsIcon:=False
+End Sub
